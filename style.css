@@ -80,3 +80,7 @@ nav {
     text-decoration: underline;
     margin-top: 10px;
 }
+
+.card a:hover {
+    color: rgb(238, 186, 247);
+}
